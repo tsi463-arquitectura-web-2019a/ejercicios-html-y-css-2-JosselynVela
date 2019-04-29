@@ -1,0 +1,28 @@
+body{
+	background-color: #eeeeee;
+	font-family: Times New Roman;
+}
+.main{
+	width: 1000px;
+	margin: 0 auto;
+
+}
+
+.header {
+	text-transform: uppercase;
+	color: #ffffff;
+	background-color: #33BEBE;
+	font-size:10px;
+	padding left: 15px;
+	margin-bottom: 15px; 
+
+}
+
+.contenido_wrapper{
+	display: flex;
+	position: relative;
+}
+.image {
+	width: 300px;
+	position: relative;
+}
