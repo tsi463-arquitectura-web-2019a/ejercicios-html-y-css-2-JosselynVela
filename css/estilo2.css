@@ -1,0 +1,33 @@
+body{
+	background-color:#E8E8E7;
+	width: 100%;
+	height: 100%;
+	margin: 0px auto;
+}
+
+.img{
+	width: 100%;
+	height: 5%;
+}
+.linea{
+	background: #8BCC98;
+	height: 20px;
+	margin: 20px 0px
+}
+.articulo{
+	background:#fff;
+	width: 50%;
+	margin: 20px  350px;
+}
+.articulo p{
+	font-family: "verdana";
+	margin: 20px;
+	text-indent: 2.5cm;
+	color: gray;
+}
+.articulo h3{
+	color: gray;
+	font-family: "verdana";
+	margin: 20px;
+	padding: 10px;
+}

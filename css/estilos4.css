@@ -1,0 +1,70 @@
+body{
+	width:90%;
+		
+}
+.encabezado{
+	text-align: right;
+	color: black;
+	margin: 0px 40px;
+
+}
+.img{
+	float: left;
+	margin:10px 40px;
+	height: 100px;
+
+}
+.ti{
+
+	width: 97%;
+	font-family: Arial;
+	font-size: 400%;
+	font-weight: bold;
+
+	
+		
+}
+.ti2{
+	width: 97%;
+	font-family: Arial;
+	margin: -60px 0px;
+	font-size: 20px;
+	
+}
+.barra{
+	margin: 90px 40px;
+	background: beige;
+	height: 5px;
+}
+
+.fondo{
+	
+	margin: -50px 34px;
+	background:#131A2D;
+	height: 1000px;
+}
+.img1{
+	width: 100%;
+	margin: 20px 0px;
+}
+
+.ti3{
+	color: #E8A562;
+	text-align: left;
+	margin: 20px 50px;
+	font-family: Arial;
+	font-size: 40px;
+	font-weight: normal;
+}
+.cuadrado1{
+	float: left;
+	background: #E8A562;
+	height: 100px;
+	
+}
+.cuadrado2{
+	float: left;
+	background: #E8A562;
+	height: 100px;
+	color: #E8A562;
+}
